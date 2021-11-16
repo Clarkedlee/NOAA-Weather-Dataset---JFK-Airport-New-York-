@@ -10,3 +10,5 @@ In this notebook, we clean the raw dataset by:
 - [x] creating a fixed time interval between observations (this aids with later time-series analysis)
 - [x] filling missing values
 - [x] encoding certain weather features
+
+![JFK](https://github.com/Clarkedlee/watson_studio_notbook/blob/2d86a3e05691aa022eff4f8317346a611e62ce7f/JFK_airport.jpeg) 
